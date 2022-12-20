@@ -1,2 +1,82 @@
 
 /* Your CSS Code here. */
+#container{
+    height: 710px;
+    width: 800px;
+    background-color: lightpink;
+    border: 6px solid greenyellow;
+
+}
+
+.item{
+    background-color: aqua;
+}
+
+.sec1{
+    display: flex;
+    margin: 10px;
+    background-color:  rgb(53, 15, 2);;
+}
+
+.sec2{
+    display: flex;
+    margin: 10px;
+    background-color:  rgb(53, 15, 2);;
+    justify-content: space-between;
+}
+
+.sec3{
+    display: flex;
+    margin: 10px;
+    justify-content: center;
+    background-color:  rgb(53, 15, 2);;
+}
+
+.item1{
+    background-color: rgb(17, 180, 159);
+    height: 210px;
+    width: 270px;
+    border: 2px dotted black;
+    padding: 5px;
+}
+
+.item2{
+    background-color: rgb(185, 152, 185);
+    height: 210px;
+    width: 530px;
+    border: 2px dotted black;
+    padding: 5px;
+}
+
+.item3{
+    background-color: orangered;
+    height: 210px;
+    width: 200px;
+    border: 2px dotted black;
+    margin-left: 180px;
+    padding: 5px;
+}
+
+.item4{
+    background-color: aqua;
+    height: 210px;
+    width: 200px;
+    border: 2px dotted black;
+    padding: 5px;
+}
+
+.item5{
+    background-color: rgb(223, 45, 223);
+    height: 210px;
+    width: 200px;
+    padding: 5px;
+    border: 2px dotted black;
+}
+
+.item6{
+    background-color: rgb(91, 204, 87);
+    height: 210px;
+    width: 200px;
+    border: 2px dotted black;
+    padding: 5px;
+}
